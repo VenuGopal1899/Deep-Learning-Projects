@@ -1,5 +1,5 @@
 ## Deep-Learning-Projects
-Deep learning practice projects made on Google Colab
+Deep learning practice projects made on Google Colab/ Jupyter Notebooks(Anaconda Distribution)
 
 Projects 1-5 are made by reference from the book, Deep Learning with Python by Francois Chollet
 
